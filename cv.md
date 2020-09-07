@@ -1,22 +1,22 @@
 ### Maksim, Ihnashevich
 
-Contact Info: 
-	* Skype: live:e724d512c6855df2
-	* Email: maksimignashevich@gmail.com
+**Contact Info:** 
+* Skype: live:e724d512c6855df2
+* Email: maksimignashevich@gmail.com
 
-Skills:
-	* JavaScript
-	* HTML
-	* CSS
-	* Git
-	* NodeJs
-	* Angular
+**Skills:**
+* JavaScript
+* HTML
+* CSS
+* Git
+* NodeJs
+* Angular
 
-Experience:
-	* https://github.com/Ignash
+**Experience:**
+* https://github.com/Ignash
 
-Education:
-	* self education
+**Education:**
+* self education
 
-English: 
-	* Level A2
+**English:** 
+* Level A2
